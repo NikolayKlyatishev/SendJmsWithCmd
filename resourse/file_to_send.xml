@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docProjectStatusRequest xmlns="http://zakupki.gov.ru/busMonitoring" xmlns:as2="http://zakupki.gov.ru/oos/integration/1"
+                         schemeVersion="10.2">
+    <docProjectsIds>
+        <id>9678bbd3-065c-4ad5-9cd8-8711bc0f6484</id>
+        <id>9678bbd3-065c-4ad5-9cd8-8711bc0f6485</id>
+    </docProjectsIds>
+</docProjectStatusRequest>
