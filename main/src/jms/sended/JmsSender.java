@@ -8,7 +8,7 @@ import java.util.Properties;
 
 public class JmsSender {
 
-    private String fileName = "file_to_send.xml";
+    private String fileName = "xml_requests/file_to_send.xml";
     private String addressName = "http://localhost";
     private String portName = "8161";
     private String apiPath = "/api/message/";
